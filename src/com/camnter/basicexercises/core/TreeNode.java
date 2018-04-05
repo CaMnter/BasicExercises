@@ -47,4 +47,34 @@ public class TreeNode<T> {
         return root;
     }
 
+    /**
+     * -            1
+     * -        2       3
+     * -      4   5       6
+     * -     7     8     9
+     * -   10
+     *
+     * @return TreeNode<Integer>
+     */
+    public static TreeNode<Integer> getUnBalancedTree() {
+        TreeNode<Integer> root = new TreeNode<Integer>(1);
+
+        root.left = new TreeNode<Integer>(2);
+        root.right = new TreeNode<Integer>(3);
+
+        root.left.left = new TreeNode<Integer>(4);
+        root.left.right = new TreeNode<Integer>(5);
+
+        root.right.right = new TreeNode<Integer>(6);
+
+        root.left.left.left = new TreeNode<Integer>(7);
+        root.left.right.right = new TreeNode<Integer>(8);
+        root.right.right.left = new TreeNode<Integer>(9);
+
+        root.left.left.left.left = new TreeNode<Integer>(10);
+
+        return root;
+    }
+
+
 }
