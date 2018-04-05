@@ -17,7 +17,6 @@ BasicExercises
     - [两个栈实现队列](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/TwoStacksImplementQueue.java)
 - [线程](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread)
     - [两个线程 101010](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread/TwoThreadCommunication.java)
-    - [Number.isSafeInteger](#Z4.1)   
 - [树](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree)
     - [前序遍历（深度）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/PreOrder.java)
     - [中序遍历（深度）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/InOrder.java)
