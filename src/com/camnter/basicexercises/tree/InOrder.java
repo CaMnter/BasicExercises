@@ -23,13 +23,6 @@ import java.util.Stack;
  */
 public class InOrder<T> {
 
-    void inOrderRecursive(TreeNode<T> root) {
-        if (root == null) return;
-        inOrderRecursive(root.left);
-        System.out.print(root.value + " ");
-        inOrderRecursive(root.right);
-    }
-
     void inOrder(TreeNode<T> root) {
         if (root == null) return;
         Stack<TreeNode<T>> stack = new Stack<TreeNode<T>>();
@@ -54,8 +47,6 @@ public class InOrder<T> {
 
     public static void main(String args[]) {
         InOrder<Integer> inOrder = new InOrder<Integer>();
-        inOrder.inOrderRecursive(TreeNode.getTree());
-        System.out.println("");
         inOrder.inOrder(TreeNode.getTree());
     }
 

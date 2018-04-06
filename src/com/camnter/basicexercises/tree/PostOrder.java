@@ -27,13 +27,6 @@ import java.util.Stack;
  */
 public class PostOrder<T> {
 
-    void postOrderRecursive(TreeNode<T> root) {
-        if (root == null) return;
-        postOrderRecursive(root.left);
-        postOrderRecursive(root.right);
-        System.out.print(root.value + " ");
-    }
-
     void postOrder(TreeNode<T> root) {
         if (root == null) return;
         TreeNode<T> current = root;
@@ -71,8 +64,6 @@ public class PostOrder<T> {
 
     public static void main(String args[]) {
         PostOrder<Integer> postOrder = new PostOrder<Integer>();
-        postOrder.postOrderRecursive(TreeNode.getTree());
-        System.out.println("");
         postOrder.postOrder(TreeNode.getTree());
     }
 

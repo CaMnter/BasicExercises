@@ -49,8 +49,6 @@ public class PreOrder<T> {
 
     public static void main(String args[]) {
         PreOrder<Integer> preOrder = new PreOrder<Integer>();
-        preOrder.preOrderRecursive(TreeNode.getTree());
-        System.out.println("");
         preOrder.preOrder(TreeNode.getTree());
     }
 
