@@ -27,5 +27,6 @@ BasicExercises
     - [广度优先遍历（非递归）（层次遍历）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/LayerTraversal.java)
     - [树的深度计算（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/CountLayer.java)
     - [判断平衡二叉树（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/IsBalancedTreeRecursive.java)
+    - [最小公共父节点（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/LowestCommonAncestorRecursive.java)
 
 <br>
