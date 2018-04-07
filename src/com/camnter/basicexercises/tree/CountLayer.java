@@ -19,7 +19,7 @@ import java.util.Queue;
  */
 public class CountLayer<T> {
 
-    private void countLayer(TreeNode<T> root) {
+    public void countLayer(TreeNode<T> root) {
         if (root == null) return;
         Queue<TreeNode<T>> queue = new LinkedList<TreeNode<T>>();
         queue.add(root);
