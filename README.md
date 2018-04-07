@@ -14,6 +14,7 @@ BasicExercises
 - [二分法](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/binary)
     - [二分搜索](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/binary/BinarySearch.java)
 - [栈](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack)
+    - [getMin 栈（重复压栈）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/GetMinStackOne.java)
     - [两个栈实现队列](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/TwoStacksImplementQueue.java)
 - [线程](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread)
     - [两个线程 101010](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread/TwoThreadCommunication.java)
