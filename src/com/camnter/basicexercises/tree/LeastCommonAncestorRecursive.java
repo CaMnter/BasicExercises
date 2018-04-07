@@ -18,7 +18,7 @@ import com.camnter.basicexercises.core.TreeNode;
  *
  * @author CaMnter
  */
-public class LowestCommonAncestorRecursive<T> {
+public class LeastCommonAncestorRecursive<T> {
 
     TreeNode<T> lowestCommonAncestorRecursive(TreeNode<T> root, T p, T q) {
         // 在当前节点的左子树下找到，则继续左子树的左子树继续找，持续下去
@@ -39,11 +39,11 @@ public class LowestCommonAncestorRecursive<T> {
     }
 
     public static void main(String args[]) {
-        LowestCommonAncestorRecursive<Integer> lowestCommonAncestorRecursive = new LowestCommonAncestorRecursive<Integer>();
+        LeastCommonAncestorRecursive<Integer> leastCommonAncestorRecursive = new LeastCommonAncestorRecursive<Integer>();
         TreeNode<Integer> root = TreeNode.getTree();
-        System.out.println("7 8 最小公共父节点是 " + lowestCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 7, 8).value);
-        System.out.println("4 6 最小公共父节点是 " + lowestCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 4, 6).value);
-        System.out.println("4 8 最小公共父节点是 " + lowestCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 4, 8).value);
+        System.out.println("7 8 最小公共父节点是 " + leastCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 7, 8).value);
+        System.out.println("4 6 最小公共父节点是 " + leastCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 4, 6).value);
+        System.out.println("4 8 最小公共父节点是 " + leastCommonAncestorRecursive.lowestCommonAncestorRecursive(root, 4, 8).value);
     }
 
 }
