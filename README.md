@@ -18,6 +18,7 @@ BasicExercises
     - [getMin 栈（不重复压栈）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/GetMinStackOne.java)
     - [两个栈实现队列](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/TwoStacksImplementQueue.java)
     - [只用递归和栈操作逆序一个栈](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/ReverseStack.java)
+    - [一个栈排序另一个栈](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/SortStackByStack.java)
 - [线程](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread)
     - [两个线程 101010](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread/TwoThreadCommunication.java)
 - [树](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree)
