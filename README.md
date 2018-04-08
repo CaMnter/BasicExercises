@@ -37,5 +37,6 @@ BasicExercises
     - [反转链表（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/ReverseLinkList.java)
     - [打印两个有序链表的公共部分](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/PrintLinkListCommonPart.java)
     - [反转部分链表（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/ReversePartOfLinkList.java)
+    - [环形链表的约瑟夫问题](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/Josephus.java)
 
 <br>
