@@ -46,6 +46,25 @@ public class Node<T> {
     }
 
     /**
+     * 带环链表
+     * <p/>
+     * 1 2 3 4 5 3
+     *
+     * @return Node<Integer>
+     */
+    public static Node<Integer> getWithRingLinkList() {
+        Node<Integer> node = new Node<Integer>(1);
+        node.next = new Node<Integer>(2);
+        Node<Integer> node3 = new Node<Integer>(3);
+        node.next.next = node3;
+        node.next.next.next = new Node<Integer>(4);
+        node.next.next.next.next = new Node<Integer>(5);
+        node.next.next.next.next.next = node3;
+        node.next.next.next.next.next.next = node;
+        return node;
+    }
+
+    /**
      * 回文链表
      * <p/>
      * 1 2 3 3 2 1
