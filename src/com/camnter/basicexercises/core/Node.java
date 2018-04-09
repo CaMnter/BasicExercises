@@ -28,11 +28,13 @@ public class Node<T> {
     }
 
     /**
+     * 环链表
+     * <p/>
      * 1 2 3 4 5 6 1
      *
      * @return Node<Integer>
      */
-    public static Node<Integer> getRingLinkList(){
+    public static Node<Integer> getRingLinkList() {
         Node<Integer> node = new Node<Integer>(1);
         node.next = new Node<Integer>(2);
         node.next.next = new Node<Integer>(3);
@@ -40,6 +42,23 @@ public class Node<T> {
         node.next.next.next.next = new Node<Integer>(5);
         node.next.next.next.next.next = new Node<Integer>(6);
         node.next.next.next.next.next.next = node;
+        return node;
+    }
+
+    /**
+     * 回文链表
+     * <p/>
+     * 1 2 3 3 2 1
+     *
+     * @return Node<Integer>
+     */
+    public static Node<Integer> getPalindromeLinkList() {
+        Node<Integer> node = new Node<Integer>(1);
+        node.next = new Node<Integer>(2);
+        node.next.next = new Node<Integer>(3);
+        node.next.next.next = new Node<Integer>(3);
+        node.next.next.next.next = new Node<Integer>(2);
+        node.next.next.next.next.next = new Node<Integer>(1);
         return node;
     }
 
