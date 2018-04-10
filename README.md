@@ -42,5 +42,6 @@ BasicExercises
     - [链表找环](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/WithRingLinkList.java)
     - [链表相加](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/LinkListAddition.java)
     - [删除链表中倒数第 K 个节点](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/RemoveLastKthNode.java)
+    - [删除无序表中的重复元素](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/RemoveDuplicateElements.java)
 
 <br>
