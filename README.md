@@ -41,5 +41,6 @@ BasicExercises
     - [链表是否是回文结构](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/IsPalindrome.java)
     - [链表找环](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/WithRingLinkList.java)
     - [链表相加](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/LinkListAddition.java)
+    - [删除链表中倒数第 K 个节点](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/RemoveLastKthNode.java)
 
 <br>
