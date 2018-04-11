@@ -46,5 +46,6 @@ BasicExercises
     - [链表删除特定值](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/DeleteSpecifiedValue.java)
     - [一种怪异的方式删除节点](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/WeirdWayToDeleteNodes.java)
     - [有序的环形链表插入值](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/OrderedCircularLinkListInsertNode.java)
+    - [合并两个有序链表](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/MergingOrderedLinkLists.java)
 
 <br>
