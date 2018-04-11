@@ -108,6 +108,17 @@ public class Node<T> {
             System.out.print(head.value + " ");
             head = head.next;
         }
+        System.out.println("");
+    }
+
+    public static <T> void printRingLinkList(Node<T> head) {
+        Node<T> cur = head;
+        if (cur == null) return;
+        do {
+            System.out.print(cur.value + " ");
+            cur = cur.next;
+        } while (cur != null && cur != head);
+        System.out.println("");
     }
 
 }
