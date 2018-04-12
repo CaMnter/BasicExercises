@@ -58,21 +58,43 @@ public class TreeNode<T> {
      */
     public static TreeNode<Integer> getUnBalancedTree() {
         TreeNode<Integer> root = new TreeNode<Integer>(1);
-
         root.left = new TreeNode<Integer>(2);
         root.right = new TreeNode<Integer>(3);
-
         root.left.left = new TreeNode<Integer>(4);
         root.left.right = new TreeNode<Integer>(5);
-
         root.right.right = new TreeNode<Integer>(6);
-
         root.left.left.left = new TreeNode<Integer>(7);
         root.left.right.right = new TreeNode<Integer>(8);
         root.right.right.left = new TreeNode<Integer>(9);
-
         root.left.left.left.left = new TreeNode<Integer>(10);
+        return root;
+    }
 
+    /**
+     * 二叉搜索树
+     * <p/>
+     * 左节点比根 小
+     * 右节点比根 大
+     * <p/>
+     * -            7
+     * -        4       8
+     * -      3   5       10
+     * -     2     6     9
+     * -    1
+     *
+     * @return TreeNode<Integer>
+     */
+    public static TreeNode<Integer> getBST() {
+        TreeNode<Integer> root = new TreeNode<Integer>(7);
+        root.left = new TreeNode<Integer>(4);
+        root.right = new TreeNode<Integer>(8);
+        root.left.left = new TreeNode<Integer>(3);
+        root.left.right = new TreeNode<Integer>(5);
+        root.right.right = new TreeNode<Integer>(10);
+        root.left.left.left = new TreeNode<Integer>(2);
+        root.left.right.right = new TreeNode<Integer>(6);
+        root.right.right.left = new TreeNode<Integer>(9);
+        root.left.left.left.left = new TreeNode<Integer>(1);
         return root;
     }
 

@@ -34,6 +34,7 @@ BasicExercises
     - [最小公共父节点（LCA）（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/LeastCommonAncestorRecursive.java)
     - [反转二叉树（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/ReverseTreeRecursive.java)
     - [最大搜索二叉子树（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/BiggestSubBST.java)
+    - [校验 BST 的后序遍历（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/IsPostOrderArrayOfBST.java)
 - [链表](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist)
     - [反转链表（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/ReverseLinkList.java)
     - [打印两个有序链表的公共部分](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/PrintLinkListCommonPart.java)
