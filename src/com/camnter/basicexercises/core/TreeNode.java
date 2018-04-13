@@ -98,5 +98,26 @@ public class TreeNode<T> {
         return root;
     }
 
+    /**
+     * 完全二叉树
+     * <p/>
+     * 完全二叉树：叶节点只能出现在最下层和次下层，并且最下面一层的结点都集中在该层最左边的若干位置的二叉树
+     * <p/>
+     * -            7
+     * -        4       8
+     * -      3   5   10
+     *
+     * @return TreeNode<Integer>
+     */
+    public static TreeNode<Integer> getCBT() {
+        TreeNode<Integer> root = new TreeNode<Integer>(7);
+        root.left = new TreeNode<Integer>(4);
+        root.right = new TreeNode<Integer>(8);
+        root.left.left = new TreeNode<Integer>(3);
+        root.left.right = new TreeNode<Integer>(5);
+        root.right.left = new TreeNode<Integer>(10);
+        return root;
+    }
+
 
 }
