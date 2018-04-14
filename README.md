@@ -54,5 +54,8 @@ BasicExercises
     - [一种怪异的方式删除节点](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/WeirdWayToDeleteNodes.java)
     - [有序的环形链表插入值](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/OrderedCircularLinkListInsertNode.java)
     - [合并两个有序链表](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/MergingOrderedLinkLists.java)
+- [动态规划](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/dynamicplanning)
+    - [爬楼梯](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/dynamicplanning/ClimbStairs.java)
+
 
 <br>
