@@ -39,6 +39,7 @@ BasicExercises
     - [有序数组生成 平衡搜索二叉树（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/GenerateBBST.java)
     - [最小公共父节点（LCA）（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/LowestCommonAncestorRecursive.java)
     - [最小公共父节点（LCA）（非递归 && 哈希表）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/LowestCommonAncestorByHashMap.java)
+    - [节点之间的最大距离（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/MaximumDistanceBetweenNodes.java)
 - [链表](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist)
     - [反转链表（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/ReverseLinkList.java)
     - [打印两个有序链表的公共部分](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/PrintLinkListCommonPart.java)
