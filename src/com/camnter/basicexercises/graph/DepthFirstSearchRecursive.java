@@ -22,7 +22,7 @@ public class DepthFirstSearchRecursive<T> {
     public void recursive(AdjacencyMatrixGraph<T> graph, boolean[] visited, int i) {
         // 标记
         visited[i] = true;
-        System.out.println(graph.vertexes.get(i).toString());
+        System.out.print(graph.vertexes.get(i).toString() + " ");
 
         for (int j = 0; j < graph.vertexes.size(); j++) {
             /**
@@ -36,7 +36,7 @@ public class DepthFirstSearchRecursive<T> {
 
     public static void main(String[] args) {
         DepthFirstSearchRecursive<String> depthFirstSearchRecursive = new DepthFirstSearchRecursive<String>();
-        depthFirstSearchRecursive.dfsRecursive(AdjacencyMatrixGraph.getGraph());
+        depthFirstSearchRecursive.dfsRecursive(AdjacencyMatrixGraph.getBiggerGraph());
     }
 
 }

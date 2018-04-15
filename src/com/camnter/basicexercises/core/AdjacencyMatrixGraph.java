@@ -1,7 +1,6 @@
 package com.camnter.basicexercises.core;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -148,6 +147,50 @@ public class AdjacencyMatrixGraph<V> {
         graph.addEdge(3, 2, 1);
         graph.addEdge(4, 1, 1);
         graph.addEdge(4, 2, 1);
+        return graph;
+    }
+
+    /**
+     * V0----V1-----V5-----V7
+     * |    / |      |      |
+     * |  V2  |      |      |
+     * | /  \ |      |      |
+     * V3    V4-----V6-----V8
+     *
+     * BFS：V0 V1 V3 V2 V4 V5 V6 V7 V8
+     * DFS：V0 V1 V2 V3 V4 V6 V5 V7 V8
+     *
+     * @return graph
+     */
+    public static AdjacencyMatrixGraph<String> getBiggerGraph() {
+        final String[] vertexes = {"V0", "V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8"};
+        AdjacencyMatrixGraph<String> graph = new AdjacencyMatrixGraph<String>(vertexes.length);
+        for (String vertex : vertexes) {
+            graph.addVertex(vertex);
+        }
+        graph.addEdge(0, 1, 1);
+        graph.addEdge(0, 3, 1);
+        graph.addEdge(1, 2, 1);
+        graph.addEdge(1, 4, 1);
+        graph.addEdge(1, 5, 1);
+        graph.addEdge(2, 1, 1);
+        graph.addEdge(2, 3, 1);
+        graph.addEdge(2, 4, 1);
+        graph.addEdge(3, 0, 1);
+        graph.addEdge(3, 2, 1);
+        graph.addEdge(4, 1, 1);
+        graph.addEdge(4, 2, 1);
+        graph.addEdge(4, 6, 1);
+        graph.addEdge(5, 1, 1);
+        graph.addEdge(5, 6, 1);
+        graph.addEdge(5, 7, 1);
+        graph.addEdge(6, 4, 1);
+        graph.addEdge(6, 5, 1);
+        graph.addEdge(6, 8, 1);
+        graph.addEdge(7, 5, 1);
+        graph.addEdge(7, 8, 1);
+        graph.addEdge(8, 7, 1);
+        graph.addEdge(8, 6, 1);
         return graph;
     }
 

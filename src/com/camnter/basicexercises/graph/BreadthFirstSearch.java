@@ -31,7 +31,7 @@ public class BreadthFirstSearch<T> {
             queue.add(t);
             visited[i] = true;
 
-            System.out.println(t.toString());
+            System.out.print(t.toString() + " ");
 
             while (!queue.isEmpty()) {
                 queue.poll();
@@ -56,7 +56,7 @@ public class BreadthFirstSearch<T> {
                      */
                     visited[j] = true;
                     queue.add(t);
-                    System.out.println(t.toString());
+                    System.out.print(t.toString() + " ");
                 }
 
             }
@@ -65,7 +65,7 @@ public class BreadthFirstSearch<T> {
 
     public static void main(String[] args) {
         BreadthFirstSearch<String> breadthFirstSearch = new BreadthFirstSearch<String>();
-        breadthFirstSearch.bfs(AdjacencyMatrixGraph.getGraph());
+        breadthFirstSearch.bfs(AdjacencyMatrixGraph.getBiggerGraph());
     }
 
 }
