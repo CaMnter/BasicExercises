@@ -1,6 +1,7 @@
 package com.camnter.basicexercises.core;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -29,16 +30,16 @@ public class AdjacencyMatrixGraph<V> {
     /**
      * 顶点
      */
-    private List<V> vertexes;
+    public List<V> vertexes;
     /**
      * 邻接矩阵
      * 存储边
      */
-    private int[][] adjacencyMatrix;
+    public int[][] adjacencyMatrix;
     /**
      * 边数
      */
-    private int edges;
+    public int edges;
 
     public AdjacencyMatrixGraph(int n) {
         this.edges = 0;
