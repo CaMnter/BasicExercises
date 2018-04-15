@@ -56,6 +56,7 @@ BasicExercises
     - [合并两个有序链表](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/linklist/MergingOrderedLinkLists.java)
 - [动态规划](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/dynamicplanning)
     - [爬楼梯](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/dynamicplanning/ClimbStairs.java)
-- [图](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/BreadthFirstSearch.java)
-
+- [图](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph)
+    - [广度优先搜索（DFS）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/BreadthFirstSearch.java)
+    - [深度优先搜索（BFS）（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/DepthFirstSearchRecursive.java)
 <br>
