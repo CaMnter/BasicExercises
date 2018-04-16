@@ -60,4 +60,5 @@ BasicExercises
     - [广度优先搜索（DFS）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/BreadthFirstSearch.java)
     - [深度优先搜索（BFS）（递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/DepthFirstSearchRecursive.java)
     - [深度优先搜索（BFS）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/DepthFirstSearch.java)
+    - [最短路径（迪杰斯特拉算法）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/Dijkstra.java)
 <br>
