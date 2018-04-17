@@ -18,7 +18,8 @@ public class BinarySearch {
      */
     public static int binarySearch(int[] array, int left, int right, int key) {
         if (left <= right) {
-            int mid = (left + right) >> 1;
+            // 无符号位运算 防止数组过大溢出
+            int mid = (left + right) >>> 1;
             System.out.println(mid);
             if (key == array[mid])
                 return mid;
