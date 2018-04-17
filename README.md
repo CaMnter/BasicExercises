@@ -62,6 +62,6 @@ BasicExercises
     - [深度优先搜索（BFS）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/DepthFirstSearch.java)
     - [最短路径（迪杰斯特拉算法）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/graph/Dijkstra.java)
 - [图](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/bit)
-    - [最短路径（迪杰斯特拉算法）（非递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/bit/SpecialExchangeValue.java)
+    - [不用额外变量交换整数值](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/bit/SpecialExchangeValue.java)
 
 <br>
