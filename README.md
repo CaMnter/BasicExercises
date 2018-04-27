@@ -65,5 +65,6 @@ BasicExercises
     - [不用额外变量交换整数值](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/bit/SpecialExchangeValue.java)
 - [数组](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array)
     - [全排列（不去重递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array/FullPermutationRecursive.java)
+    - [全排列（去重递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array/FullPermutationOptimizedRecursive.java)
 
 <br>
