@@ -21,6 +21,7 @@ BasicExercises
     - [一个栈排序另一个栈](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/stack/SortStackByStack.java)
 - [线程](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread)
     - [两个线程 101010](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread/TwoThreadCommunication.java)
+    - [生产者和消费者](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/thread/ProducerAndCustomer.java)
 - [树](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree)
     - [前序遍历（递归）（深度）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/PreOrderRecursive.java)
     - [前序遍历（非递归）（深度）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/tree/PreOrder.java)
