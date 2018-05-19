@@ -71,5 +71,8 @@ BasicExercises
     - [全排列（不去重递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array/FullPermutationRecursive.java)
     - [全排列（去重递归）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array/FullPermutationOptimizedRecursive.java)
     - [全子集（不去重）](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/array/Subsets.java)
+- [其它](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/other)
+    - [求平方根](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/other/Sqrt.java)
+
 
 <br>
