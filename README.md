@@ -88,6 +88,7 @@ BasicExercises
 
 - [工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/factory)
     - [简单工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/factory/SimpleFactoryPattern.java)
+    - [工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/factory/FactoryPattern.java)
 
 <br>
 <br>
