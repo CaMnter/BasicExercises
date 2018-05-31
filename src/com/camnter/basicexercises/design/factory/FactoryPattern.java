@@ -76,8 +76,10 @@ public class FactoryPattern {
 
 
     public static void main(String[] args) {
-        final FileLoggerFactory fileLoggerFactory = new FileLoggerFactory();
-        final Logger logger = fileLoggerFactory.createLogger();
+        // 不需要知道具体 LoggerFactory
+        final LoggerFactory loggerFactory = new FileLoggerFactory();
+        // 不需要知道具体 Logger
+        final Logger logger = loggerFactory.createLogger();
         logger.writeLog();
     }
 
