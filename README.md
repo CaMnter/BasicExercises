@@ -3,6 +3,10 @@ BasicExercises
 
 <br>
 
+# 算法
+
+<br>
+
 - [排序](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/sorting)
     - [冒泡排序](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/sorting/BubbleSort.java)
     - [插入排序](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/sorting/InsertSort.java)
@@ -75,4 +79,15 @@ BasicExercises
     - [求平方根](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/other/Sqrt.java)
 
 
+<br>
+<br>
+
+# 设计模式
+
+<br>
+
+- [工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/desgin/factory)
+    - [简单工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/desgin/factory/SimpleFactoryPattern.java)
+
+<br>
 <br>
