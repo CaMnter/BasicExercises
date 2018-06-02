@@ -92,6 +92,7 @@ BasicExercises
     - [抽象工厂模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/factory/AbstractFactoryPattern.java)
 - [单例模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton)
     - [饿汉式单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/EagerSingleton.java)
+    - [懒汉式单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/LazySingleton.java)
 
 <br>
 <br>
