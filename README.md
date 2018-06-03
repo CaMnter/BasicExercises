@@ -94,6 +94,8 @@ BasicExercises
     - [饿汉式单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/EagerSingleton.java)
     - [懒汉式单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/LazySingleton.java)
     - [IoDH 单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/IoDHSingleton.java)
+- [原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype)
+    - [浅克隆原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype/ShallowClonePrototypePattern.java)
 
 <br>
 <br>
