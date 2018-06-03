@@ -96,6 +96,7 @@ BasicExercises
     - [IoDH 单例](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/singleton/IoDHSingleton.java)
 - [原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype)
     - [浅克隆原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype/ShallowClonePrototypePattern.java)
+    - [深克隆原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype/DeepClonePrototypePattern.java)
 
 <br>
 <br>
