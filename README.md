@@ -98,6 +98,7 @@ BasicExercises
     - [浅克隆原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype/ShallowClonePrototypePattern.java)
     - [深克隆原型模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/prototype/DeepClonePrototypePattern.java)
 - [建造者模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/builder/BuilderPattern.java)
+- [适配器模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/adapter/AdapterPattern.java)
 
 <br>
 <br>
