@@ -100,6 +100,7 @@ BasicExercises
 - [建造者模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/builder/BuilderPattern.java)
 - [适配器模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/adapter/AdapterPattern.java)
 - [桥接模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/bridge/BridgePattern.java)
+- [组合模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/composite/CompositePattern.java)
 
 <br>
 <br>
