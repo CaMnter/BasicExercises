@@ -103,6 +103,7 @@ BasicExercises
 - [组合模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/composite/CompositePattern.java)
 - [装饰模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/decorator/DecoratorPattern.java)
 - [外观模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/facade/FacadePattern.java)
+- [代理模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/proxy/ProxyPattern.java)
 
 <br>
 <br>
