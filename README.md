@@ -105,6 +105,8 @@ BasicExercises
 - [外观模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/facade/FacadePattern.java)
 - [代理模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/proxy/ProxyPattern.java)
 - [责任链模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/chain/ChainOfResponsibilityPattern.java)
+- [命令模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command)
+     - [普通命令模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command/CommonCommandPattern.java)
 
 <br>
 <br>
