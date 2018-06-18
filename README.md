@@ -107,6 +107,7 @@ BasicExercises
 - [责任链模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/chain/ChainOfResponsibilityPattern.java)
 - [命令模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command)
      - [普通命令模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command/CommonCommandPattern.java)
+     - [命令队列](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command/CommandQueue.java)
 
 <br>
 <br>
