@@ -110,6 +110,7 @@ BasicExercises
      - [命令队列](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command/CommandQueue.java)
      - [撤销命令](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/design/command/UndoCommand.java)
 - [观察者模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/observer/ObserverPattern)
+- [迭代器模式](https://github.com/CaMnter/BasicExercises/blob/master/src/com/camnter/basicexercises/iterator/IteratorPattern)
 
 <br>
 <br>
